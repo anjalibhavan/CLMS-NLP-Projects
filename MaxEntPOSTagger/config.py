@@ -1,0 +1,3 @@
+TOPK = 0
+TOPN = 0
+BEAM_SIZE = 0

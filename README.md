@@ -1,1 +1,1 @@
-Class assignment projects from my studies at University of Washington
+Class assignment projects from my studies at the University of Washington.
